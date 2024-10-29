@@ -25,7 +25,7 @@ Here's a list of things you can do to help:
 
 - Use [OpenBeta](https://openbeta.io/) to find climbing information.
 - If you can't find what you are looking for, create an account to add a route or two.
-- Follow our social media accounts([Instagram](https://www.instagram.com/openbetaproject/)), and tag us when you post something about OpenBeta.
+- Follow our social media accounts ([Instagram](https://www.instagram.com/openbetaproject/)), and tag us when you post something about OpenBeta.
 - Join our [Discord](https://discord.com/invite/ptpnWWNkJx) community. Tell us about yourself, how you like and dislike OpenBeta, and what you want to see in the future. 
 ### Level 1️⃣ { Onsights } Quick contributions
 If you have a bit more time, you can have a quick contribution in two fields:
@@ -35,11 +35,11 @@ If you have a bit more time, you can have a quick contribution in two fields:
 
 🔨: none
 
-You can contribute to data maintenance and growth. This is critical to the long term viability of the project, and also where we need the largest number of contributors. 
+You can contribute to content maintenance and growth. This is critical to the long term viability of the project, and also where we need the largest number of contributors. 
 
-Since OpenBeta is a community based platform, we reply on climbers to use it in their day to day adventures, and to make edits and additions when they see something wrong or missing.
+Since OpenBeta is a community based platform, we rely on climbers to use it in their day to day adventures, and to make edits and additions when they see something wrong or missing.
 
-Visit [Using OpenBeta](/how-to-contribute/using-openbeta/introduction) to learn more about how to contribute data to the platform.
+Visit [Using OpenBeta](/how-to-contribute/using-openbeta/introduction) to learn more about how to contribute content to the platform.
 
 #### 2. Code 
 ⌛: < 3 hrs/week
@@ -65,8 +65,8 @@ Below you can find code and no code pathways.
 
 🔨: UI/UX, Marketing, Communication
 
-- Become our Regional Ambassador and maintain an area.(application coming soon...)
-- Design our UI/UX. Please go to Design onboarding(coming soon...) to get started.
+- Become our Regional Ambassador and maintain an area. (application coming soon...)
+- Design our UI/UX. Please go to Design onboarding (coming soon...) to get started.
 - Help us with marketing.
 
 #### 2. Code
@@ -90,7 +90,7 @@ Here's how you can make a lasting impact:
 
 🔨: UI/UX, Marketing, Communication
 
-We are looking for [UX/UI designers](https://docs.openbeta.io/project-ideas/non-coding).
+We're looking for [UX/UI designers](https://docs.openbeta.io/project-ideas/non-coding).
 
 #### 2. Code
 ⌛: ~ 15 hrs/week
@@ -99,13 +99,13 @@ We are looking for [UX/UI designers](https://docs.openbeta.io/project-ideas/non-
 
 We're looking for help with frontend, backend, and full stack development.
 
-You can join our core dev team by simply completing the [Dev Onboarding program](./dev-onboarding.md)  and work on some tasks first. If by then you are still interested in joining, please express your interest in our [Discord](https://discord.com/invite/ptpnWWNkJx) channel.
+You can join our core dev team by simply completing the [Dev Onboarding program](./dev-onboarding.md)  and work on some tasks first. If by then you're still interested in joining, please express your interest in our [Discord](https://discord.com/invite/ptpnWWNkJx) channel.
 
 :::note Reminder
 Regardless of the level you choose, collaboration and open communication are vital. Engage with the community, ask questions, and seek feedback when needed. 
 :::
 
-Thank you for considering contributing to Open Beta We appreciate your support, and we look forward to seeing your contributions.
+Thank you for considering contributing to Open Beta. We appreciate your support, and we look forward to seeing your contributions.
 
 
 
